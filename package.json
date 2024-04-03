@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.6.4"
+    },
+    "dependencies": {
+        "@vitejs/plugin-vue": "^5.0.4",
+        "laravel-vite-plugin": "^1.0.2",
+        "vue": "^3.4.21",
+        "vuetify": "^3.5.14"
+    }
+}
